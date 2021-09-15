@@ -11,4 +11,4 @@ ___
 * использовании media queries для задания специфических правил для разных размеров экранов;
 * организация файловой структуры проекта основана по правилам *Nested БЭМ*.
 ___
-[Ссылка на GitHub Pages.](https://github.com/ayu-galsan/russian-travel.git)
+[Ссылка проекта](https://ayu-galsan.github.io/russian-travel/)
